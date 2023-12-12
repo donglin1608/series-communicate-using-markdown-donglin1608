@@ -7,5 +7,5 @@ print("Hello github friend")
 ```
 
 - [x] Learning github
-- [x] Hangout with friends
+- [ ] Two more to go
 - [ ] Learn to code

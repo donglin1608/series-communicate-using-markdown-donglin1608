@@ -1,6 +1,6 @@
 # <H1> The header
 
-![alt poor connection]([https://octodex.github.com/images/yaktocat.png](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-donglin1608/issues/5#issue-2036978346))
+![alt poor connection](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-donglin1608/blob/main/IMGP1261.jpg)
 
 ```
 $ git init

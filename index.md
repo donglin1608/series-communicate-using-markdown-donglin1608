@@ -6,6 +6,6 @@
 print("Hello github friend")
 ```
 
-- [x] Learning github
+- [ ] Learning github
 - [ ] Two more to go
 - [ ] Learn to code
